@@ -1,1 +1,1 @@
-# singleton
+# singleton-model
